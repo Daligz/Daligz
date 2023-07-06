@@ -4,4 +4,4 @@
 
 
 [![Estadísticas de GitHub de
-Daligz](https://github-readme-stats.vercel.app/api?username=Daligz&count_private=true&show_icons=true&theme=onedark)](https://github.com/Daligz)
+Daligz](https://github-readme-stats-sigma-five.vercel.app/api?theme=onedark&count_private=true&username=Daligz&show_icons=true)](https://github.com/Daligz)
