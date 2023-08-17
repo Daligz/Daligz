@@ -7,4 +7,4 @@
       <img src="https://img.shields.io/github/followers/daligz?logo=github&color=orange"><br>
     </td>
   </tr>
-</table>
+</table
